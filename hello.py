@@ -9,3 +9,4 @@ if __name__ == '__main__':
     print_hi('git')
     print_hi('github')
     print_hi('gitee')
+    print_hi('pycharm')
